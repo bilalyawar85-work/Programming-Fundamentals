@@ -1,3 +1,9 @@
+/*
+Programmer : Bilal Yawar
+Roll Number : BDS 26K-2523
+Date : 10/27/26
+Program : Assignment 2 Question 2 Amicable Numbers
+*/
 #include <stdio.h>
 
 // creating a function to return the sum of the proper divisors of a number "x" //
